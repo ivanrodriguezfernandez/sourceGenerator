@@ -24,3 +24,4 @@ TestResults/
 
 # Visual Studio 2015
 .vs/
+/SourceGeneratorWithContext/.idea/.idea.SourceGeneratorWithContext/.idea
