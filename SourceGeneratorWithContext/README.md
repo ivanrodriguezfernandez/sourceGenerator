@@ -6,7 +6,7 @@ dotnet new sln -n SourceGeneratorWithContext
 ```
 
 ```
-dotnet new classlib -o SourceGenerator -f netstandard2.1
+dotnet new classlib -o SourceGenerator -f netstandard2.0
 ```                                       
 
 ```
